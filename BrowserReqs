@@ -1,0 +1,19 @@
+Open Webpage as specific browser
+access multiple elements with xpath
+access specific element with single     xpath locator   noElementFoundException,multipleElementsFoundException
+press button with                       xpath locator   " "
+modify input                            xpath locator   " "
+wait for javascript dynamic              listener? access after execution
+
+
+
+Links
+Linkhoster
+-> String with show name -> matching shows (Picture,Name,description)
+-> Show -> episodes and seasons            (Number of Seasones, episode names?)
+-> episode and season -> VideoHosters      (Names of Hosters and links to files)
+
+
+VideoHoster
+-> String with Link -> mp4/flv
+
